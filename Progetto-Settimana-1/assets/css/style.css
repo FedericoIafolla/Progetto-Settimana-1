@@ -1,0 +1,140 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: black
+}
+
+#logo {
+    width: 30%;
+    margin: 2rem 0;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 0rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-top: 4rem;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+h3 {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.content {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.container {
+    background-color: black;
+    margin-bottom: 0;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+#notebook {
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 2rem;
+}
+
+#laptop {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    margin-bottom: 0;
+    margin-top: 4rem;
+}
+
+#impara {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    margin-bottom: 0;
+    margin-top: 4rem;
+}
+
+#lavora {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    margin-bottom: 0;
+    margin-top: 4rem;
+}
+
+footer {
+    margin-top: 3rem;
+    background-color: #29A2CB;
+    margin-bottom: 0;
+    padding-top: 1rem;
+}
+
+h4 {
+    margin-bottom: 0;
+    padding-bottom: 4rem;
+}
+
+.contattaci {
+    color: white;
+
+}
+
+#special {
+    color: white
+}
+
+#skyblue {
+    color: #13A5C9;
+}
+
+.sfondo {
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+}
+
+.garanzia {
+    background-color: red;
+    padding-bottom: 1rem;
+    color: white;
+}
+
+.box {
+    width: 80%;
+    padding: 10;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: auto;
+}
